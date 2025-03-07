@@ -1,0 +1,17 @@
+<library path="rviz_plugins">
+
+    <class name="rviz_plugins/LinCovAnalysisPanel"
+           type="rviz_plugins::LinCovAnalysisPanel"
+           base_class_type="rviz_common::Panel">
+        <description>Used for performing LinCov analysis.</description>
+    </class>
+</library>
+
+<library path="rviz_plugins">
+
+    <class name="rviz_plugins/PDVGPanel"
+           type="rviz_plugins::PDVGPanel"
+           base_class_type="rviz_common::Panel">
+        <description>Panel for interacting with PDVG planner.</description>
+    </class>
+</library>
